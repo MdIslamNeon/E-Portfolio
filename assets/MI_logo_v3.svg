@@ -1,0 +1,33 @@
+<svg viewBox="0 0 520 340" xmlns="http://www.w3.org/2000/svg" width="520" height="340">
+
+  <!-- Dark background -->
+  <rect width="520" height="340" fill="#111111"/>
+
+  <!-- M: bold geometric, fills left 2/3 -->
+  <polygon
+    points="
+      30,30
+      115,30
+      195,155
+      275,30
+      360,30
+      360,310
+      275,310
+      275,185
+      195,285
+      115,185
+      115,310
+      30,310
+    "
+    fill="white"
+  />
+
+  <!-- I: bold, right third — top bar + stem + bottom bar -->
+  <!-- Top bar -->
+  <rect x="385" y="30"  width="105" height="75" fill="white"/>
+  <!-- Stem -->
+  <rect x="420" y="103" width="35"  height="134" fill="white"/>
+  <!-- Bottom bar -->
+  <rect x="385" y="235" width="105" height="75" fill="white"/>
+
+</svg>
